@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://productivity-insights.blog/sitemap.xml
